@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Life of a Phd"
-author = "A PhD'er"
+title = "Knitting a Phd"
+author = "Marijne"
 theme = "hugo-xmin"
 googleAnalytics = ""
 disqusShortname = ""
@@ -31,4 +31,4 @@ footnotereturnlinkcontents = "↩"
 
 [params]
     description = "A website built through Hugo and blogdown."
-    footer = "&copy; A PhD'er 2020 | [Github](https://github.com/) | [Twitter](https://twitter.com/) | [LinkedIn](https://www.linkedin.com/)"
+    footer = "&copy; [Marijne 2020](/about) | [Github](https://github.com/) | [Twitter](https://twitter.com/) | [LinkedIn](https://www.linkedin.com/) | [Lisence](https://creativecommons.org/licenses/by-sa/4.0/)"
